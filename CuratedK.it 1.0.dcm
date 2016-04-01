@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61090RSAR
+D 2A Boost DC/DC Chip http://www.mouser.com/ProductDetail/Texas-Instruments/TPS61090RSAR/?qs=sGAEpiMZZMuo%252bmZx5g6tFAsofpr73Rbu
+K SYNCHRONOUS BOOST CONVERTER WITH 2A SWITCH
+F BOOST CONVERTER
+$ENDCMP
+#
+#End Doc Library
