@@ -1,0 +1,98 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V3
+K POWER, PWR
+$ENDCMP
+#
+$CMP +5V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +BATT
+K POWER, PWR
+$ENDCMP
+#
+$CMP +BUS
+K POWER, PWR
+$ENDCMP
+#
+$CMP +VLIPO
+K POWER, PWR
+$ENDCMP
+#
+$CMP BSS138
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CONN_01X02
+D Connector 01x02
+$ENDCMP
+#
+$CMP CONN_02X20
+D Connector 02x20
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP L_Small
+D Inductor
+$ENDCMP
+#
+$CMP MCP73871
+D Stand-Alone System Load Sharing and Li-Ion / Li-Polymer Battery Charge Management Controller
+F http://www.mouser.com/ProductDetail/Microchip-Technology/MCP73871-2CCI-ML
+$ENDCMP
+#
+$CMP MMUN2133LT1G
+D Digital Transistor, 4k7/47k, SOT-23
+K ROHM Digital Transistor
+$ENDCMP
+#
+$CMP PA-5/013
+D Stereo Head Phone Jack
+F http://www.mouser.com/ds/2/393/35rasmt4bhntrx_cd-477665.pdf
+$ENDCMP
+#
+$CMP PAM8302AASCR
+D Audio Amplifier 2.5W MONO FILTERLESS CLASS-D AUDIO AMP
+F http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyPAM8302AASCR
+$ENDCMP
+#
+$CMP POT
+D Potentionmetre
+K R
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP SW
+D Button
+K Switch
+$ENDCMP
+#
+$CMP SWITCH_INV
+D inverseur
+K switch
+$ENDCMP
+#
+$CMP TPS61090
+D SYNCHRONOUS BOOST DC/DC CONVERTER WITH 2A SWITCH
+F http://www.mouser.com/ProductDetail/Texas-Instruments/TPS61090RSAR
+$ENDCMP
+#
+#End Doc Library
